@@ -1,5 +1,5 @@
 {
-  "name": "code-splitting-updated",
+  "name": "code-splitting-react.lazy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
