@@ -11,7 +11,7 @@ const Page2 = ({ onRouteChange }) => (
         target="_blank"
         rel="noopener noreferrer"
       >
-        Learn React
+        Welcome to Page 2
       </a>
     </header>
     <button onClick={() => onRouteChange("page1")}>Page1</button>
